@@ -8,8 +8,7 @@ Created while completing the Advanced CSS and Sass Course on udemy.
 - HTML5
 - CSS3(Pre-processor: SASS)
 
-### Link
-https://krishvora.github.io/Natours/Natours/
+### [Live Demo](https://natours-5b882.web.app/)
 
 
 
