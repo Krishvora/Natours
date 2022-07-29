@@ -1,14 +1,14 @@
 # Natours
 Lading Page for a fictional travel agency. 
 
+### [Live Demo](https://natours-5b882.web.app/)
+
 ### Project Description
 Created while completing the Advanced CSS and Sass Course on udemy.
 
 ### Technologies Used
 - HTML5
 - CSS3(Pre-processor: SASS)
-
-### [Live Demo](https://natours-5b882.web.app/)
 
 
 
